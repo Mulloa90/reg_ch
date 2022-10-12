@@ -1,39 +1,42 @@
-Title : reg_ch
-Introductory paragraph 
+# Title (replace with your title)
+
 Regex or regular expression can be used to match patterns in strings, reformatting text, pulling out and replacing information from a given body of code as well as input validation.
 
-Summary 
+
+## Summary
+
 The code that follows /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ will be used througout this tutorial to show how the components of (Regex) validate emails and to make sure they follow the correct format.
 
-Table of Contents
 
-Anchors
-Quantifiers
-Grouping Constructs
-Bracket Expressions
-Character Classes
-The OR Operator
-Flags
-Character Escapes
+## Table of Contents
 
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+- [Character Escapes](#character-escapes)
 
-Regex Components
+## Regex Components
 
-Anchors
+### Anchors
 
-Quantifiers
+### Quantifiers
 
-Grouping Constructs
+### Grouping Constructs
 
-Bracket Expressions
+### Bracket Expressions
 
-Character Classes
+### Character Classes
 
-The OR Operator
+### The OR Operator
 
-Flags
+### Flags
 
-Character Escapes
+### Character Escapes
 
-Author
+## Author
+
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
