@@ -39,4 +39,4 @@ The code that follows /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ will be 
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was created by Mario Ulloa Github: (https://github.com/Mulloa90)
